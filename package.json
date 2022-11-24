@@ -17,7 +17,8 @@
     "url": "https://github.com/manuelsederap/ninja_food/issues"
   },
   "homepage": "https://github.com/manuelsederap/ninja_food#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "tailwindcss": "^3.2.4"
   }
 }
