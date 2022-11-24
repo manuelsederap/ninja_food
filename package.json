@@ -1,0 +1,23 @@
+{
+  "name": "ninja_food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelsederap/ninja_food.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelsederap/ninja_food/issues"
+  },
+  "homepage": "https://github.com/manuelsederap/ninja_food#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
